@@ -9,6 +9,7 @@ public class test : MonoBehaviour
     {
         int a; //이명은
         int b; //김혜수
+        int c; //김혜수
     }
 
     // Update is called once per frame
