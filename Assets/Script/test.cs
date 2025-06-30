@@ -8,7 +8,7 @@ public class test : MonoBehaviour
     void Start()
     {
         int a; //이명은
-        
+        int b; //김혜수
     }
 
     // Update is called once per frame
